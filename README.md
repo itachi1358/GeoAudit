@@ -242,6 +242,7 @@ The microservices architecture ensures:
 - Easy model upgrades
 - Fault isolation
 - Future integration of new geospatial modules
+- Leverages Microservices via API Calls
 
 ---
 
@@ -265,3 +266,4 @@ The Automated Land Analysis System successfully demonstrates how AI-driven micro
 - Scalable deployment capabilities
 
 This solution bridges the gap between satellite imagery and actionable governance insights, making urban land management more transparent, data-driven, and efficient.
+
